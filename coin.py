@@ -71,7 +71,7 @@ print(n2,"Your Score",score2)
 print("================================================")
 if score1>score2:
     print("")
-    print('CONGRATULATION')#windows+dot key is used for emojis
+    print('CONGRATULATION 🎈🎈🎈🎉🎉🎉🎊🎊🎊')#windows+dot key is used for emojis
     print(n1,",You Won the Game😁😍")
 if score1<score2:
     print("")
@@ -79,7 +79,7 @@ if score1<score2:
     print(n2,",You Won the Game😀😍")
 else:
     print("")#windows+dot key is used for emojis
-    print(" Game Tie")
+    print(" Game Tie 🙄🙄🙄🙄")
 
                 
     
